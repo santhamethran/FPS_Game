@@ -1,1 +1,2 @@
 # FPS_Game
+In this gameplay, the enemy character is designed to actively follow and pursue the player within a set range. Utilizing AI pathfinding, the enemy tracks the player's movements, adapting to the environment to reach its target. The player, in turn, must evade or fight back using available weapons or abilities. The combat mechanics allow both the player and the enemy to attack, and when one sustains enough damage, they are defeated. This creates a dynamic and engaging battle scenario where survival depends on strategy, timing, and skill."
